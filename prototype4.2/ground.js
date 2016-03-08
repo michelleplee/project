@@ -214,8 +214,8 @@ function render() {
         
         
     knot.rotation.x += 0.01;
-    knot.scale.x = 15 * audioAmpMeter.volume;
-    knot.scale.y = 10 * audioAmpMeter.volume;
+    knot.scale.x = 25 * audioAmpMeter.volume;
+    knot.scale.y = 25 * audioAmpMeter.volume;
 
         
     knot3.rotation.x += 0.001;
